@@ -12,8 +12,7 @@
             <img align="center" alt="Trenks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
             <img align="center" alt="Trenks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             <img align="center" alt="Trenks-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-            <img align="right" alt="Trenks-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.webp">
-                 
+            <img align="right" alt="Trenks-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.webp"> 
 </div>
 
 ##
